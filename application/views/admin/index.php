@@ -121,7 +121,7 @@
 			<footer class="main-footer d-flex p-2 px-3 bg-white border-top">
             <span class="copyright ml-auto my-auto mr-2">Copyright &copy; <?= date('Y') ?>
               <a href="https://github.com/Muammarzaki/article-portal-ci" rel="nofollow">U122</a>.
-              <span>Template by Diki Siswanto</span>
+              <span>Kelompok 7</span>
             </span>
 			</footer>
 		</main>
